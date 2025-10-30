@@ -9,12 +9,6 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 
-/*
- * @description
- * @author: Huu Thai
- * @date:
- * @version: 1.0
- */
 @Controller
 @RequestMapping("/")
 public class HomePageController {
