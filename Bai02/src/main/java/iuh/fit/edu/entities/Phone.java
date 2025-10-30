@@ -12,13 +12,6 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
-
-/*
- * @description
- * @author: Huu Thai
- * @date:
- * @version: 1.0
- */
 @Entity
 @Getter
 @Setter
