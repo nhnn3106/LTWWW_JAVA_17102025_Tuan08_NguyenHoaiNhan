@@ -16,12 +16,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 import java.util.List;
 
-/*
- * @description
- * @author: Huu Thai
- * @date:
- * @version: 1.0
- */
+
 @Controller
 @AllArgsConstructor
 @RequestMapping("/suppliers")
