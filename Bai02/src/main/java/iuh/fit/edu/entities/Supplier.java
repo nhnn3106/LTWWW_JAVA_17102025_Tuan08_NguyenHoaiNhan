@@ -12,12 +12,6 @@ import lombok.Setter;
 
 import java.util.List;
 
-/*
- * @description
- * @author: Huu Thai
- * @date:
- * @version: 1.0
- */
 @Entity
 @Getter
 @Setter
