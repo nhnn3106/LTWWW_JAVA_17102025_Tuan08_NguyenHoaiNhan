@@ -11,12 +11,7 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 
-/*
- * @description
- * @author: Huu Thai
- * @date:
- * @version: 1.0
- */
+
 @Service
 @AllArgsConstructor
 public class SupplierServiceImpl implements iuh.fit.edu.services.SupplierService {
