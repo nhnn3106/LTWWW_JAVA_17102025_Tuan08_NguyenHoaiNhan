@@ -13,12 +13,7 @@ import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
-/*
- * @description
- * @author: Huu Thai
- * @date:
- * @version: 1.0
- */
+
 @Service
 public class UploadService {
     private final ServletContext servletContext;
