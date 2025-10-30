@@ -4,12 +4,6 @@
  */
 package iuh.fit.edu.entities;
 
-/*
- * @description
- * @author: Huu Thai
- * @date:
- * @version: 1.0
- */
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
